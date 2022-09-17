@@ -1,4 +1,3 @@
-#!/bin/bash
 #include<s t d i o . h>
 /**
  * main- printing a text
