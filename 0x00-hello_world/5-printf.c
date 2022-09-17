@@ -1,4 +1,4 @@
-#include<s t d i o . h>
+#include<studio.h>
 /**
  * main- printing a text
  *
